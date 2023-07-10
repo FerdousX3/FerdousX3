@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdousx3&label=Profile%20views&color=0e75b6&style=flat" alt="ferdousx3" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ferdous6669" target="blank"><img src="https://img.shields.io/twitter/follow/ferdous6669?logo=twitter&style=for-the-badge" alt="ferdous6669" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ferdousx3" target="blank"><img src="https://img.shields.io/twitter/follow/ferdousx3?logo=twitter&style=for-the-badge" alt="Ferdousx3" /></a> </p>
 
 
 
